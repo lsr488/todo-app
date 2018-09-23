@@ -1,0 +1,1 @@
+Creating a Todo App specifically for Jasmine testing, following this tutorial/code-along: https://dev.to/aurelkurtula/unit-testing-with-jasmine-the-very-basics-74k
